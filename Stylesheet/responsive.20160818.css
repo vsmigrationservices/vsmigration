@@ -1,0 +1,333 @@
+.sub_desc.open .more_info{display:inline-block!important;width:100%}
+.clearfix:after,.clearfix:before{display:table;line-height:0;content:""}
+.clearfix:after{clear:both}
+ul.visa_group .visa_group_item .sub_desc h4{font-weight:500!important}
+@media(max-width:1199px) {
+.top-header-right{margin:0 0 20px;clear:both;float:left;width:100%}
+.top-header-right .country-select{float:left;margin-left:0;margin-right:60px}
+.form-info ul li,.select2-container,.select2-container .select2-choice{width:100%}
+.form-info ul li input.ip-text{max-width:100%}
+.h-row-member .ip-text{width:100%!important;margin-bottom:10px}
+.span-time{width:calc(50% - 15px);width:-moz-calc(50% - 15px);width:-webkit-calc(50% - 15px);width:-o-calc(50% - 15px)}
+.sp-to{margin-left:15px;margin-right:0}
+.form-info ul li .span-time .short-picker,.form-info ul li .span-time .short-picker .select2-choice{width:100%!important}
+.form-info ul li .span-time .short-picker{margin-bottom:10px}
+.top-quote .div-select .select2-container .select2-choice{width:100%}
+.form-info ul li .bootstrap-select{width:100%!important}
+#top-banner .nav>li>a{background:0 0!important;text-align:left;padding:12px 15px}
+#top-banner .container-fluid,#top-banner .navbar-collapse{padding-left:15px;padding-right:15px}
+.navbar-nav>li>.dropdown-menu:before{border:0;display:none}
+.payment-page .form-info ul.card-type li label.payment-type{width:100%;display:inline-block;top:0}
+.payment-page .form-info ul.card-type li label.inline{vertical-align:text-top;width:auto;margin-right:20px}
+.gift-code{width:100%;margin-bottom:20px}
+.gift-code label{top:0}
+.bt-payment .btn{float:left}
+.li-cards{margin-left:0}
+.zone-embassies a img{width:100%;height:auto}
+}
+@media(max-width:1199px)and (min-width:992px) {
+.visa-banner-right h1.visa-name{top:100px}
+#accreditations a{height:55px}
+}
+@media(max-width:991px) {
+.top-header-right .login-top{margin-top:13px}
+.item-block .right-col{padding-right:15px;padding-left:15px}
+#body-content .left-col,.category-list .col-md-6{padding:0}
+.item-block .right-col .right-content .row-top{margin-left:-15px;margin-right:-15px}
+.visa-list .col-md-2{width:33.33333333%;float:left;min-height:310px}
+.item-block .col-md-8.right-col{padding:0;margin-top:40px}
+.visa-assessment .col-md-8 p.me-description{color:#666;line-height:21px;padding-top:0;padding-bottom:20px}
+.visa-banner-right h1.visa-name{left:10px;opacity:1;margin:25px 0 15px;bottom:10px}
+#top-banner .nav>li>a{background:0 0!important;text-align:left;padding:12px 15px}
+.container .address-list{background:0;padding-left:0}
+.address-list .col-md-3,#accreditations .col-md-3{width:25%;float:left}
+#accreditations a:last-child{margin-right:15px}
+.right-content-list .col-md-12{padding:0}
+h1.top-heading-eta{margin:20px 0 20px 30px;font-size:36px}
+#body-content .large-col-left{padding:45px 20px 30px 30px;min-height:200px}
+.top-header-right .country-select{float:left;margin-top:15px;clear:both;margin-left:0}
+.visa-assessment .col-choose{margin-bottom:-60px}
+.visa-banner-right h1.visa-name{font-size:32px;margin-top:0;margin-left:30px}
+#body-content .large-col-left,#body-content .left-col{display:none}
+#body-content .left-col.left-contact-col{display:block}
+.item-block .col-md-8.right-col.large-col-right{padding:0 30px;margin-top:0}
+.zone-embassies .col-md-3{float:left;width:25%}
+#accreditations a{height:42px}
+}
+@media(max-width:768px) {
+.modal{margin-left:0;left:10%;width:80%}
+.navbar-nav .open .dropdown-menu{margin-left:30px}
+.address-list h4 i{left:-15px}
+.navbar-toggle{margin-left:30px!important}
+.visa-list .col-md-2{width:33.33333333%;float:left}
+#top-banner .nav>li>a{padding:12px 30px}
+#accreditations{text-align:left;margin-left:0}
+.assessment-list .horizontal-row .assessment-btn .btn{margin-bottom:10px;float:right}
+.item-block .div-block .item-info h2{font-size:22px}
+.book-tc-box,.book-tc-pay{width:100%}
+.zone-10 img{width:100%;height:auto}
+.zone-embassies .col-md-3{width:50%;text-align:center}
+}
+@media(max-width:599px) {
+#row_incur_medical_costs table td,.zebra tbody tr{vertical-align:top}
+.li-content h3,ul.sitemap{margin-left:0}
+.form-assessment .corporate-service-form .buttons,.ser-icon{margin-right:0}
+.horizontal-row .thumbnail .ser-icon,.ser-icon,.service-right{text-align:center}
+#forgotPass-modal input.email-ip{width:100%;margin-bottom:10px}
+.address-list h4 i{display:none}
+.visa-list .col-md-2{width:100%;min-height:inherit}
+.address-list .col-md-3,.visa-list .col-md-3{width:50%;float:left}
+.form-assessment .form-info ul li .select2-container .select2-choice,.form-info ul li .short-picker .select2-choice,.form-info ul li .short-text,.form-info ul li .short-title,.select2-container .select2-choice{width:100%!important}
+.form-info ul li .short-picker,.form-info ul li .short-title{margin-bottom:10px}
+#row_date_first_au span.error,#row_dob span.error,#row_intend_wh span.error,#row_passport_date span.error,#row_passport_issue_date span.error,#row_phone_number span.error,#row_travel span.error{bottom:-15px;top:auto}
+.content-block .li-content p,.content-block .li-content ul,.corporate-service-form .buttons,.corporate-service-form ul,.corporate-service-form ul li{padding:0}
+.form-info ul{padding:0 0 25px}
+.visa-banner-right h1.visa-name{font-size:26px}
+.assessment-list .content-block .horizontal-row{width:100%;margin:0;padding-left:0}
+.horizontal-row .thumbnail .ser-icon,.horizontal-row .thumbnail .service-caption{width:100%;margin:0}
+.assessment-list .content-block .li-content .faq-visa a,.form-info ul.embassies-add .txt-left,.form-info ul.embassies-add .txt-right,.form-info ul.embassies-country li,.service-left{width:100%;border-right:0}
+.horizontal-row .thumbnail .caption{width:100%}
+label.label-left{left:30px}
+.form-info ul.embassies-country{padding-left:22px;margin-top:30px}
+.service-detail{padding:0;width:100%}
+.content-form .service-desc{padding:30px 0}
+.service-right{padding-left:0;padding-top:15px;width:100%}
+.ser-icon{width:100%}
+.thumbnail a>img,.thumbnail>img{margin:0 auto 20px;width:120px;float:none}
+.buttons,.login-form ul li a.w-color,.login-form ul li span.line,.sl-visa,.zebra thead{float:left}
+.another-visa .service-detail{width:100%;padding:20px 0 0}
+h1.text-welcome{font-size:38px;width:calc(100% - 30px);width:-moz-calc(100% - 30px);width:-webkit-calc(100% - 30px)}
+.form-info ul.confirm-detail li label{width:100%;margin-right:0}
+.login-form{padding:40px 0}
+.login-form ul{width:100%;padding:0 18px}
+.content-form .content-block{overflow-x:scroll}
+.assessment-list .content-block .li-content table{width:100%;margin-left:0}
+.assessment-list .content-block .li-content h4{padding-left:0}
+.horizontal-row .thumbnail .caption .fr{width:100%;text-align:center}
+.horizontal-row .thumbnail .caption .btn{width:auto !important}
+.thumbnail .caption .caption-top,.thumbnail .caption .caption-top p{height:auto}
+.thumbnail .caption h3{margin-bottom:15px}
+.service-detail p.item-action,.service-detail p.item-action a{text-align:left}
+.logo a img{width:auto!important;height:auto!important}
+.buttons{margin-left:5px}
+.buttons .btn{margin-bottom:10px}.bl-rate{padding-left:15px}
+.zebra{display:inline-block;border-right:1px solid #e6e6e6!important}
+.zebra thead{display:table}
+.zebra thead tr th{border-right:solid 1px #e6e6e6}
+.zebra tbody tr td{width:100%;float:left;padding:15px 20px!important}
+.zebra tbody tr td,.zebra thead tr,.zebra tr th{display:block;text-align:left!important;border-bottom:solid 1px #e6e6e6}
+.zebra tbody tr td:last-child{border-right:solid 1px #eee}
+.zebra th:last-child,.zebra tr:last-child td{border-right:solid 1px #e6e6e6}
+.zebra tbody{overflow-x:auto;display:block;width:auto;position:relative;white-space:nowrap}
+.zebra tr td{padding:14px 20px}
+.zebra tr:last-child td{border-bottom:solid 1px #e6e6e6}
+.more_info,.zebra tbody tr{display:inline-block}
+ul.visa_group .visa_group_item .sub_desc{width:100%;padding:0 20px;border-right:none}
+ul.visa_group .visa_group_item{display:inline-block;width:100%;padding-bottom:30px}
+.sl-visa{margin:0 0 0 20px}
+.another-visa .service-right{width:80px}
+.another-visa .service-left{width:calc(100% - 85px);width:-o-calc(100% - 85px);width:-webkit-calc(100% - 85px);width:-moz-calc(100% - 85px)}
+.more_info{margin:30px 0 0 20px;width:100%;padding:20px}
+ul.visa_group .visa_group_item:last-child{padding-bottom:0}
+}
+@media(max-width:450px) {
+.thumbnail .caption .caption-bt .btn-primary,.thumbnail .caption .caption-bt a.more-info{float:left;margin-right:10px}
+.acc-info-top ul li:first-child{margin-bottom:20px}
+.payment-page .form-info ul.card-type li label.inline{width:100%}
+.top-header-right .login-top{float:left;margin:20px 0;clear:both}
+.zone-embassies .col-md-3{width:100%;text-align:center;float:none}
+}
+@media(max-width:1199px)and (min-width:992px) {
+#landing-page .container{width:750px}
+}
+@media(max-width:1199px) {
+.ld-visa-list{margin-left:0}
+#landing_page .container{width:750px}
+#ld-footer .ld-col-large{padding-left:15px;margin-top:0}
+.ld-left-content{padding-top:40px;padding-bottom:0}
+.ld-left-content h1.ld-heading-title{margin-bottom:10px}
+.ld-left-content .ld-offer-txt{margin-bottom:0}
+#landing-page .col-md-1,#landing-page .col-md-10,#landing-page .col-md-11,#landing-page .col-md-12,#landing-page .col-md-2,#landing-page .col-md-3,#landing-page .col-md-4,#landing-page .col-md-5,#landing-page .col-md-6,#landing-page .col-md-7,#landing-page .col-md-8,#landing-page .col-md-9{float:left}
+#landing-page .container{padding-left:20px;padding-right:20px}
+#landing-page .col-md-7{width:58.33333333%}
+#landing-page .col-md-5{width:41.66666667%}
+#landing-page .col-md-4,#landing-page .col-md-8{width:100%}
+.ld-info-block{display:none}
+.ld-info-block-hide{display:block;margin-top:38px;padding-bottom:50px}
+.ld-btn-action{margin-top:20px;text-align:center}
+}
+@media(max-width:767px)and(min-width:640px) {
+#landing-page .container{width:620px}
+.ld-red-block{margin-left:0;padding:20px 22px;margin-top:13px;min-height:inherit}
+.ld-visa-list{width:calc(100% + 20px);width:-moz-calc(100% + 20px);width:-webkit-calc(100% + 20px);width:-o-calc(100% + 20px)}
+#landing-page .col-md-4,#landing-page .col-md-5,#landing-page .col-md-7,#landing-page .col-md-8{width:100%}
+.ld-red-block:before{border-bottom:12px solid #c84940;border-left:12px solid transparent;border-right:12px solid transparent;border-top:0;content:"";display:inline-block;left:20px;position:absolute;top:-11px}
+.ld-reset-txt{top:22px;height:20px;right:20px}
+.ld-step2{margin-top:15px}
+.ld-text{margin-bottom:0}
+.ld-step2 ul{margin-top:13px}
+.ld-step p.ld-help-txt{margin-top:20px}
+.ld-confirm-info{display:none}
+}
+@media(max-width:639px) {
+.ld-visa-list li .ld-visa-block .ld-visa-action:before,.ld-visa-list li img{display:none}
+.ld-red-block,.ld-step2 ul li label{min-height:inherit}
+#landing-page .container{min-width:280px;padding-left:10px;padding-right:10px}
+.ld-left-content h1.ld-heading-title{font-size:15px;line-height:22px}
+.ld-left-content .ld-offer-txt{font-size:13px;line-height:20px}
+#landing-page .col-md-4,#landing-page .col-md-5,#landing-page .col-md-7,#landing-page .col-md-8{width:100%}
+.ld-ld-right-content{padding-top:25px;padding-bottom:30px}
+.ld-red-block{margin-top:13px;margin-left:0;padding:15px 22px 8px}
+#ld-footer,.ld-left-content{padding-top:24px}
+#landing-page .col-lg-1,#landing-page .col-lg-10,#landing-page .col-lg-11,#landing-page .col-lg-12,#landing-page .col-lg-2,#landing-page .col-lg-3,#landing-page .col-lg-4,#landing-page .col-lg-5,#landing-page .col-lg-6,#landing-page .col-lg-7,#landing-page .col-lg-8,#landing-page .col-lg-9,#landing-page .col-md-1,#landing-page .col-md-10,#landing-page .col-md-11,#landing-page .col-md-12,#landing-page .col-md-2,#landing-page .col-md-3,#landing-page .col-md-4,#landing-page .col-md-5,#landing-page .col-md-6,#landing-page .col-md-7,#landing-page .col-md-8,#landing-page .col-md-9,#landing-page .col-sm-1,#landing-page .col-sm-10,#landing-page .col-sm-11,#landing-page .col-sm-12,#landing-page .col-sm-2,#landing-page .col-sm-3,#landing-page .col-sm-4,#landing-page .col-sm-5,#landing-page .col-sm-6,#landing-page .col-sm-7,#landing-page .col-sm-8,#landing-page .col-sm-9,#landing-page .col-xs-1,#landing-page .col-xs-10,#landing-page .col-xs-11,#landing-page .col-xs-12,#landing-page .col-xs-2,#landing-page .col-xs-3,#landing-page .col-xs-4,#landing-page .col-xs-5,#landing-page .col-xs-6,#landing-page .col-xs-7,#landing-page .col-xs-8,#landing-page .col-xs-9,#ld-footer .ld-col-large{padding-left:10px;padding-right:10px}
+.ld-visa-list li{width:calc(50% - 10px);margin-right:10px;margin-bottom:10px}
+.ld-visa-list li .ld-visa-block{width:100%;height:52px;background:#fff;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}
+.ld-visa-list li .ld-visa-block .ld-visa-action{width:100%;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;overflow:hidden;top:0;height:52px}
+.ld-disabled-mask{height:52px;width:100%;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px}
+.ld-red-block:before{border-bottom:12px solid #c84940;border-left:12px solid transparent;border-right:12px solid transparent;border-top:0;content:"";display:inline-block;left:20px;position:absolute;top:-11px}
+.ld-visa-list{width:calc(100% + 10px);width:-moz-calc(100% + 10px);width:-webkit-calc(100% + 10px);width:-o-calc(100% + 10px)}
+.ld-reset-txt{top:16px;right:20px;height:20px}
+.ld-select-visa p{font-size:15px}
+.ld-logo img{display:none}
+.ld-logo{width:169px;height:80px;display:block}
+.ld-confirm-info,.ld-select-all{display:none}
+.ld-country-color{font-size:18px;margin-bottom:2px}
+.ld-step2 ul li,.ld-text{margin-bottom:0}
+#ld-footer .ld-col-large{margin-top:0}
+.ld-info-block-hide{margin-top:20px}
+.ld-visa-list li ss.ld-visa-block .ld-visa-action h2{font-size:15px}
+.ld-step2{margin-top:15px}
+.ld-step2 ul{margin-top:13px}
+.ld-visa-list li .ld-visa-block .ld-visa-action p{font-size:12px}
+div.checker{margin-right:3px!important}
+.ld-step p.ld-help-txt{margin-top:20px}
+#landing-page .row{margin-left:-10px;margin-right:-10px}
+.top-header-right .login-top a{font-size:14px;padding:14px 0}
+.nav>li>a{padding:10px}
+}
+@media(max-width:379px) {
+.ld-visa-list li .ld-visa-block .ld-visa-action p{display:none}
+.ld-visa-list li .ld-visa-block .ld-visa-action h2{font-size:15px;height:38px;display:table-cell;vertical-align:middle}
+}
+@media(max-width:992px) {
+.content-form .content-block p.note-text{margin-top:0}
+.input-verify{padding-left:15px;border-left:0}
+}
+@media(min-width:993px) {
+.ul-sub-menu{display:block!important}
+}
+@media (max-width:1200px) {
+#top-banner .nav>li>a{border-bottom:solid 1px #072d5a}
+#top-banner .nav>li>a.dropdown-toggle{padding-right:45px!important;position:relative!important}
+#top-banner .nav>li>a.dropdown-toggle .fa-angle-down{display:none}
+#top-banner .nav>li span.toggle-ic{display:inline-block}
+span.toggle-ic:hover{color:#fff}
+.open span.toggle-ic .fa-plus-square-o:before{content:"\f147"}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus{background:#ddd}
+.navbar-nav .open .dropdown-menu{margin-left:0!important;padding-left:15px;border-bottom:solid 1px #072d5a}
+#top-banner .navbar-collapse{max-height:100%}
+.acc-info-top{margin-right:0}
+#top-banner .nav > li > a.ovs_badge{right:auto; left:126px; top:0}
+}
+@media(max-width:992px) {
+.top-header-right{margin:0 0 20px;clear:both;float:left;width:100%}
+.visa-list .col-md-2{min-height:auto}
+.sub-menu-ft{width:40px;height:30px;display:block;background:#000;position:absolute;right:15px;top:7px;cursor:pointer;background:none;z-index:9999}
+.sub-menu-ft:before{content:'';width:12px;height:12px;border-left:2px #454545 solid;border-bottom:2px #454545 solid;position:absolute;top:0;left:0;bottom:0;right:0;margin:auto;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transition:.3s all ease;-webkit-transition:.3s all ease;-moz-transition:.3s all ease;-ms-transition:.3s all ease;-o-transition:.3s all ease}
+.sub-menu-ft.open:before{transform:rotate(90deg);-webkit-transform:rotate(135deg);-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);-o-transform:rotate(90deg)}
+.ul-sub-menu{display:none;margin-top:5px}
+.visa-list h3{margin-top:20px;margin-bottom:0}
+}
+@media (max-width: 992px) and (min-width: 600px) {
+.ul-sub-menu{display:none;margin-top:5px;position:absolute;background:#fff;z-index:99999;border:1px #eee solid;padding:0 15px;box-shadow:0 0 15px rgba(0,0,0,.1)}
+}
+@media (max-width:768px) {
+.visa-banner-right h1.visa-name{margin-top:10px}
+.navbar-toggle{margin-left:15px!important}
+.breadcrumb{padding:0;margin-bottom:10px;border-bottom:1px #f2f2f2 solid}
+.visa-banner-right h1.visa-name{margin-left:0}
+.breadcrumb>li+li:before{padding:0 4px}
+.top-header-right{margin-bottom:10px;margin-top:5px}
+.top-header-right .country-select ul.nav-pills{top:0}
+.top-header-right .country-select{margin-top:0}
+.top-header-right .country-select label{line-height:40px}
+.country-select ul.dropdown-menu{top:38px}
+.breadcrumb>li a{padding:12px 0 13px}
+.breadcrumb>li{height:40px;line-height:40px}
+#header .navbar{margin-bottom:5px}
+#top-banner .nav>li>a{padding:12px 15px}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus{background-color:#dcdcdc}
+h1.top-heading-eta{font-size:30px}
+#top-banner .navbar-nav .open .dropdown-menu{margin:0 15px}
+#top-banner .navbar-nav .open .dropdown-menu>li>a{padding-left:15px}
+h1.text-welcome{display:none}
+#top-banner .large-banner{height:150px}
+#accreditations a{width:80px;height:70px;overflow:hidden;border-right:1px #ebebeb solid;background-size:auto}
+#accreditations{text-align:center}
+#accreditations a img{width:270px;height:70px;max-width:none}
+.table-service .zebra td.bg{padding-left:6px!important}
+.table-service .zebra td:before{content:attr(data-label);text-align:left;font-weight:700;position:absolute;top:0;left:6px;width:45%;bottom:0;margin:auto;display:table}
+.table-service .zebra td{position:relative;display:block;width:100%;padding-left:50%;border-left:1px #eee solid}
+.table-service thead{display:none}
+.table-service table.zebra{border:none!important}
+.table-service table.zebra tr{margin-bottom:10px;display:block;background:#f9f9f9!important}
+.table-service .zebra tr td:first-child{border-top:1px #eee solid}
+}
+@media (max-width: 599px) {
+.visa-banner-right h1.visa-name{font-size:22px}
+.content-form .content-block{overflow:inherit}
+.ui-multiselect{max-width:100%}
+.logo a{width:160px;overflow:hidden;height:60px;background-size:300px}
+.logo a img{max-width:inherit;max-height:100%}
+.top-header-right .country-select{min-width:inherit}
+.top-header-right .country-select label{display:none}
+.country-select ul.dropdown-menu{left:inherit;right:0}
+.visa-assessment .col-choose{padding:30px}
+.address-list h4{margin-top:20px;margin-bottom:10px}
+.item-block .div-block{margin-bottom:15px}
+#accreditations .col-md-3{width:25%}
+.item-block .div-block .item-info h2{margin-top:5px}
+.item-block .div-block .item-info .item-description{display:-webkit-box;display:-moz-box;white-space:normal;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-line-clamp:2;-moz-line-clamp:2;overflow:hidden;font-size:13px}
+.item-block .div-block .item-info h2{font-size:20px}
+.item-block .div-block .item-info .item-info-top{height:auto;max-height:128px}
+.table-service .zebra tbody tr td:nth-child(2),.table-service .zebra tbody tr td:nth-child(3),.table-service .zebra tbody tr td:nth-child(4),.table-service .zebra tbody tr td:nth-child(5){vertical-align:text-top;}
+.form-info ul li .short-title{width:45%!important}
+.visa-list .row:first-child{display:none}
+.form-info ul li{margin-bottom:15px}
+.table-service .zebra tbody tr td{padding-left:50%!important; white-space:normal}
+.table-service .zebra tbody tr td,.table-service .zebra thead tr,.table-service .zebra tr th {display:inherit}
+.container .visa-list{display:none}
+table.zebra.special thead, table.zebra.special tbody, table.zebra.special tbody tr{width:100%}
+.form-info ul li{min-height:0; margin-bottom:15px}
+.content-form{padding:20px 10px 20px}
+.form-info ul li span.error{position:initial}
+.visa-description-right{padding:20px 10px}
+}
+@media (max-width: 599px) and (min-width: 320px) {
+.country-select{margin:0!important;position:absolute;right:15px;top:15px}
+}
+@media(max-width:480px) {
+.form-info{margin:0}
+.form-info ul li{float:none;padding:0 15px}
+.form-info ul li .short-picker{width:31%!important;margin:0 1%;padding:0}
+h1.top-heading-eta{font-size:25px}
+.div-select .select2-container .select2-choice .select2-arrow{width:40px}
+.select2-container .select2-choice{padding-left:8px;font-size:13px}
+}
+@media(max-width:450px) {
+.logo a{display:block;height:60px;overflow:hidden}
+.breadcrumb{display:none}
+.visa-banner-right h1.visa-name{margin-top:10px}
+.top-header-right .login-top{margin:10px 0}
+#top-banner .large-banner-eta{height:260px}
+.form-info ul li input.short-ip{width:55px!important}
+#accreditations .col-md-3{width:25%;padding:0}
+#accreditations a{transform:scale(.6);-webkit-transform:scale(.6)}
+#notice{display:none}
+#accreditations{margin:0}
+.container .visa-list{padding-bottom:0}
+}
+@media(max-width:340px) {
+.form-info ul li{clear:both}
+.form-info ul li .short-picker{width:100%!important;margin-bottom:10px;float:none}
+}
