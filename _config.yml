@@ -2,5 +2,13 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
 title - VS Migration Services
-description - One Stop Solution to all your migration needs!
+description - Expert Visa Service and Advice!
 url - vsmigrationservices.com.au
+social:
+  name: VS Migration Services
+  links:
+    - https://twitter.com/vsmigrationservices
+    - https://www.facebook.com/vsmigrationservices
+    - https://www.linkedin.com/in/vsmigrationservices
+    - https://plus.google.com/vsmigrationservices
+    
